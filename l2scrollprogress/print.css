@@ -1,0 +1,16 @@
+header{
+    position: static;
+}
+
+body{
+    color: blue;
+}
+
+@page{
+    margin: 0;
+
+    /* size: landscape; */
+    /* size: Legal; */
+    /* size: A4; */
+
+}
